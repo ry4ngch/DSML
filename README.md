@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ry4ngch/DSML">
-    <img src="cover_img.png" alt="Logo" width="100%" height="80">
+    <img src="cover_img.png" alt="Logo" width="100%" height="100%">
   </a>
 
   <h3 align="center">DSML</h3>
