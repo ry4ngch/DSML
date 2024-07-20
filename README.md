@@ -87,7 +87,7 @@ This repo is a list of data science and machine learning projects completed
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap your project. 
 
 * [![Jupyter][Jupyter]][Jupyter-url]
 * [![Python][Python]][Python-url]
@@ -239,7 +239,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [Next-url]: https://nextjs.org/
 [NumPy]:https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [NumPy-url]: https://numpy.org/
-[Jupyter]:(https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[Jupyter]:https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [Jupyter-url]: https://jupyter.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
