@@ -89,14 +89,15 @@ This repo is a list of data science and machine learning projects completed
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Jupyter][Jupyter]][Jupyter-url]
+* [![Python][Python]][Python-url]
+* [![Keras][Keras]][Keras-url]
+* [![Numpy][NumPy]][NumPy-url]
+* [![Plotly][Plotly]][Plotly-url]
+* [![Matplotlib][Matplotlib]][Matplotlib-url]
+* [![Scikit][Scikit]][Scikit-url]
+* [![Pandas][Pandas]][Pandas-url]
+* [![Scipy][Scipy]][Scipy-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,6 +237,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[NumPy]:https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+[Jupyter]:(https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+[Jupyter-url]: https://jupyter.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
@@ -250,3 +255,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
+[Keras]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
+[Keras-url]: https://keras.io/
+[Matplotlib]:https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Matplotlib-url]: https://matplotlib.org/
+[Plotly]: https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
+[Plotly-url]: https://plotly.com/
+[Pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]:https://pandas.pydata.org/
+[Scipy]: https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white
+[Scikit]: https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white
+[Scikit-url]:https://scikit-learn.org/stable/
+[Scipy-url]: https://scipy.org/
