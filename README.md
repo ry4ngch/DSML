@@ -233,6 +233,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/ry4ngch/DSML.svg?style=for-the-badge
 [license-url]: https://github.com/ry4ngch/DSML/blob/main/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/ryangch/
+[linkedin-shield]:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
