@@ -230,7 +230,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [stars-url]: https://github.com/ry4ngch/DSML/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ry4ngch/DSML.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/ry4ngch/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ry4ngch/DSML.svg?style=for-the-badge
 [license-url]: https://github.com/ry4ngch/DSML/blob/main/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/ryangch/
 [product-screenshot]: images/screenshot.png
