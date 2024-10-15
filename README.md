@@ -113,8 +113,6 @@ This repo is a list of data science and machine learning projects completed
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Download anaconda [https://www.anaconda.com/](https://www.anaconda.com/)
 2. Clone the repo
    ```sh
