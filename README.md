@@ -87,8 +87,6 @@ This repo is a list of data science and machine learning projects completed
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. 
-
 * [![Jupyter][Jupyter]][Jupyter-url]
 * [![Python][Python]][Python-url]
 * [![Keras][Keras]][Keras-url]
@@ -105,10 +103,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 <!--### Prerequisites-->
 
 <!--This is an example of how to list things you need to use the software and how to install them.
